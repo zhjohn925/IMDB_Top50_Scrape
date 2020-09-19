@@ -1,5 +1,5 @@
 https://github.com/tuvtran/project-based-learning#python
-
+https://medium.com/javarevisited/8-projects-you-can-buil-to-learn-python-in-2020-251dd5350d56
 
 # IMDB_Top50_Scrape
 
